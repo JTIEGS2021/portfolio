@@ -1,0 +1,4 @@
+baseURL = 'https://jacob-tiegs.com/'
+languageCode = 'en-us'
+title = 'Jacob Tiegs'
+theme = 'ananke'
