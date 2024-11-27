@@ -7,3 +7,6 @@ title = 'First'
 # Biomedical Data Scientist
 
 --- site in development
+
+# TODO
+1. Initial readme
